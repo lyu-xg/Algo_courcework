@@ -1,1 +1,2 @@
-# Algo_courcework
+# Algorithm
+course work
